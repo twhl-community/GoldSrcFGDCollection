@@ -1,10 +1,10 @@
-# The TWHL GoldSource FGD Collection Project
+# The TWHL GoldSrc FGD Collection Project
 
-The goal of this project is to have a centralized collection of GoldSource FGD files that can be maintained, kept up-to-date, and improved.
+The goal of this project is to have a centralized collection of GoldSrc FGD files that can be maintained, kept up-to-date, and improved.
 
 ## What should be part of the collection
 
-All FGDs from official Valve/Gearbox GoldSource games, as well as major games, mods, and SDKs that are considered finalized (i.e. not receiving updates).
+All FGDs from official Valve/Gearbox GoldSrc games, as well as major games, mods, and SDKs that are considered finalized (i.e. not receiving updates).
 
 ## What should ***not*** be part of the collection
 
